@@ -2,6 +2,16 @@
   background: #111;
 }
 
+.c-pillow_file_container:hover .c-pillow_file__slide {
+  opacity: 1;
+  transform: translateY(0);
+  background: #222;
+}
+
+.c-pillow_file__icon--slide:after {
+  border-color: #222;
+}
+
 .c-file__action_button, .c-file__action_button:link, .c-file__action_button:visited {
   color: #e6e6e6;
   background: #222;
