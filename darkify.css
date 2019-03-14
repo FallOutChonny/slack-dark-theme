@@ -281,6 +281,12 @@ pre {
   color: #e6e6e6;
 }
 
+ts-thread .thread_messages {
+  background: #222;
+  border-color: #363636;
+  pointer-events: none;
+}
+
 .p-threads_view__default_background {
   background: #222;
   margin: 0 16px;
@@ -288,6 +294,17 @@ pre {
 
 .p-threads_view_header {
   color: #e6e6e6;
+}
+
+.dense_theme ts-message {
+  color: #e6e6e6;
+}
+
+#threads_msgs .inline_message_input_container.with_file_upload .inline_file_upload {
+  border: none;
+  background: padding-box #2d2d2d;
+  border-color: #424242;
+  color: #868686;
 }
 
 .channel_title .channel_name_container .channel_name {
