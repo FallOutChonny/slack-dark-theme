@@ -2,6 +2,40 @@
   background: #111;
 }
 
+.c-file__action_button, .c-file__action_button:link, .c-file__action_button:visited {
+  color: #e6e6e6;
+  background: #222;
+}
+
+.c-message .c-button {
+  border: none;
+}
+
+.c-message .c-button--primary {
+  background-color: #545454;
+  color: #e6e6e6;
+}
+
+.c-message .c-button--outline {
+  background-color: #363636;
+  color: #949494;
+}
+
+.c-message .c-button {
+  border: none;
+}
+
+.supports_custom_scrollbar .texty_legacy:not(.texty_single_line_input) .ql-editor {
+  color: #e6e6e6;
+  background: #222;
+}
+
+.c-message--editing {
+  background: #363636;
+  border-color: #363636;
+  color: #e6e6e6;
+}
+
 .c-pillow_file_container {
   background: rgb(34,34,34);
 }
