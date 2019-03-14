@@ -2,6 +2,23 @@
   background: #111;
 }
 
+.old_petunia_grey {
+  color: #949494 !important;
+}
+
+#team_tab #member_preview_scroller .member_details .member_name, #member_preview_scroller .member_data_table tr {
+  color: #e6e6e6;
+}
+
+#member_preview_scroller a:not(.member_name):not(.current_status_preset_option):not(.member_details_manage_link):not(.current_status_presets_edit_link) {
+  color: #e6e6e6;
+}
+
+.c-button--outline {
+  background: #4d4d4d;
+  color: #e6e6e6;
+}
+
 .c-pillow_file_container:hover .c-pillow_file__slide {
   opacity: 1;
   transform: translateY(0);
