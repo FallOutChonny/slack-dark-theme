@@ -37,13 +37,21 @@
   border: none !important;
 }
 
+#im_browser_tokens #im_browser_filter {
+  background-color: #2d2d2d;
+}
+
 #fs_modal .fs_modal_btn:hover {
   background: #828282;
   color: #e6e6e6;
 }
 
+#fs_modal {
+  background: #222;
+}
+
 #fs_modal h1, #fs_modal h2, #fs_modal h3, #fs_modal h4, #fs_modal h5, #fs_modal h6 {
-    color: #e6e6e6;
+  color: #e6e6e6;
 }
 
 .p-flexpane_header {
