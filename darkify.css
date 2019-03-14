@@ -1,3 +1,7 @@
+.CodeMirror .CodeMirror-code {
+  background: #222;
+}
+
 .c-pillow_file_container {
   background: rgb(34,34,34);
 }
