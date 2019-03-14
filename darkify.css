@@ -8,6 +8,14 @@
   box-shadow: inset 0 0 0 1px #828282;
 }
 
+.reply_input_container .inline_message_input_container .message_input div {
+  border: none;
+}
+
+ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator) {
+  background: hsl(220, 7%, 16%);
+}
+
 .old_petunia_grey {
   color: #949494 !important;
 }
