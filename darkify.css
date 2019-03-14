@@ -10,6 +10,10 @@
   color: #e6e6e6;
 }
 
+.c-pillow_file__title {
+  color: #e0e0e0;
+}
+
 #msg_form #msg_input {
   background: padding-box #2d2d2d;
   border: none;
