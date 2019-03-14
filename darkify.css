@@ -146,7 +146,7 @@ input[type=text] {
 }
 
 #fs_modal {
-  background: #222 !important;
+  background: #222;
 }
 
 #fs_modal h1, #fs_modal h2, #fs_modal h3, #fs_modal h4, #fs_modal h5, #fs_modal h6 {
