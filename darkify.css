@@ -2,6 +2,10 @@
   background: #111;
 }
 
+.menu_member_header .member_details .member_name_and_presence {
+  color: #e6e6e6;
+}
+
 .supports_custom_scrollbar .texty_legacy:not(.texty_single_line_input) .ql-editor {
   color: #e6e6e6;
   background: #222;
