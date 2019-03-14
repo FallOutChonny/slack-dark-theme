@@ -2,6 +2,10 @@
   background: rgb(34,34,34);
 }
 
+#im_browser .im_browser_row.multiparty {
+  color: #e6e6e6;
+}
+
 .c-message_kit__file__meta {
   color: #e6e6e6;
 }
