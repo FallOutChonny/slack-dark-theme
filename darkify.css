@@ -2,6 +2,21 @@
   background: #111;
 }
 
+.supports_custom_scrollbar .texty_legacy:not(.texty_single_line_input) .ql-editor {
+  color: #e6e6e6;
+  background: #222;
+  border: none;
+}
+
+.unread_group .unread_group_header .unread_group_mark {
+  background: #222;
+}
+
+.btn_outline.hover, .btn_outline:focus, .btn_outline:hover {
+  background: #222;
+  color: #c7c7c7 !important;
+}
+
 .c-button--outline:active {
   background: rgba(215, 43, 63, 0.03);
   color: #e0e0e0;
