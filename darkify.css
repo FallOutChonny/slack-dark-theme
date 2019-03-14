@@ -9,7 +9,7 @@
 }
 
 .old_petunia_grey {
-  color: #949494;
+  color: #949494 !important;
 }
 
 #team_tab #member_preview_scroller .member_details .member_name, #member_preview_scroller .member_data_table tr {
