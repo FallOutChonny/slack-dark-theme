@@ -2,6 +2,12 @@
   background: #111;
 }
 
+.c-button--outline:active {
+  background: rgba(215, 43, 63, 0.03);
+  color: #e0e0e0;
+  box-shadow: inset 0 0 0 1px #828282;
+}
+
 .old_petunia_grey {
   color: #949494 !important;
 }
