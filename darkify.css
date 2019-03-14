@@ -51,7 +51,7 @@ input[type=text] {
   color: #e6e6e6 !important;
 }
 
-##im_browser #im_list_container:not(.keyboard_active).not_scrolling .im_browser_row:not(.disabled_dm):hover {
+#im_browser #im_list_container:not(.keyboard_active).not_scrolling .im_browser_row:not(.disabled_dm):hover, #im_browser .im_browser_row.highlighted {
   background: #2d2d2d !important;
   border: none !important;
 }
