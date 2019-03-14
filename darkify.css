@@ -1,3 +1,11 @@
+.c-pillow_file_container {
+  background: rgb(34,34,34);
+}
+
+.c-message_kit__file__meta {
+  color: #e6e6e6;
+}
+
 #msg_form #msg_input {
   background: padding-box #2d2d2d;
   border: none;
