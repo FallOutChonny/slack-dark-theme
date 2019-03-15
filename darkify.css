@@ -2,6 +2,19 @@
   background: #111;
 }
 
+.c-archive_footer__title {
+  color: #e6e6e6;
+}
+
+.c-archive_footer__metadata {
+  color: #e6e6e6;
+}
+
+#footer_archives_preview {
+  background: #222;
+  border-top: 1px solid #777;
+}
+
 #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
   background: #2d2d2d;
   border: none;
