@@ -15,6 +15,10 @@
   border-top: 1px solid #777;
 }
 
+.feature_channel_browser_dropdown .channel_browser_sort_container .lfs_input_container .selected {
+  color: #e6e6e6;
+}
+
 #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
   background: #2d2d2d;
   border: none;
