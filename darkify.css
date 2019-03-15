@@ -2,6 +2,28 @@
   background: #111;
 }
 
+#channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted {
+  background: #2d2d2d;
+  border: none;
+}
+
+.cloud_silver {
+  color: #e6e6e6;
+}
+
+.channel_modal .channel_modal_filter_container input[type=text]::placeholder {
+  color: #e6e6e6;
+}
+
+#channel_browser .channel_browser_row {
+  border-top: 1px solid #2d2d2d;
+  color: #e6e6e6;
+}
+
+.feature_channel_browser_dropdown .show_which_channels_container .lfs_input_container .selected {
+  color: #e6e6e6;
+}
+
 .menu_member_header .member_details .member_name_and_presence {
   color: #e6e6e6;
 }
