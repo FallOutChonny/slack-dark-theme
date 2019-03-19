@@ -16,6 +16,11 @@ It will automatically install the dark theme into slack for you, if install succ
 
 If theme is broken, please open an issue to me, i'll fix it as soon as posible.
 
+### TODO
+
+- [ ] Downloads
+- [ ] Tooltip text color
+
 ### My sidebar custom theme
 
 `#263238,#263238,#263238,#64fcda,#546e7a,#eceff1,#40c4ff,#ff5252`
