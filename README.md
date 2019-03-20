@@ -12,7 +12,7 @@ Its very easy to use, just download [darkify-slack.sh](https://raw.githubusercon
 sudo sh /path/to/darkify-slack.sh
 ```
 
-It will automatically install the dark theme into slack for you, if install successfully, terminal will display `Dark theme applied to Slack.` message, and then restart slack and enjoy it!
+It will automatically install the dark theme into slack for you, if install successfully, terminal will display `Dark theme applied to Slack.` message, then you just need restart your slack and enjoy it!
 
 If theme is broken, please open an issue to me, i'll fix it as soon as posible.
 
