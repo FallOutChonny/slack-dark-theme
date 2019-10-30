@@ -1,5 +1,7 @@
 # slack-dark-theme
 
+[DEPCREATED] I wanna sorry, my company work is very busy, so I have no time to update this tool. and now slack is support dark mode officially , so you don't need to use this tool anymore, thank for using!
+
 ## Theme Preview
 
 ![slack dark theme](https://raw.githubusercontent.com/FallOutChonny/slack-dark-theme/master/screenshots/theme-previw-01.png)
